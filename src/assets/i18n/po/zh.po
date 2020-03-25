@@ -2461,3 +2461,6 @@ msgstr "重命名"
 
 msgid "Deposit only {coinName} to this address."
 msgstr "仅将{coinName}存入此地址。"
+
+msgid "Wallet Mnemonic"
+msgstr "钱包助记词"

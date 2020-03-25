@@ -2554,3 +2554,6 @@ msgstr "Rename"
 
 msgid "Deposit only {coinName} to this address."
 msgstr "Deposit only {coinName} to this address."
+
+msgid "Wallet Mnemonic"
+msgstr "Wallet Mnemonic"
